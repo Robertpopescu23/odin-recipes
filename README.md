@@ -12,3 +12,4 @@ In this section, I learned:
 - Basic networking concepts, like how a client communicates with a server to request and load HTML documents
 
 This marks the beginning of my journey into full-stack web development.
+-SSH key: enter
